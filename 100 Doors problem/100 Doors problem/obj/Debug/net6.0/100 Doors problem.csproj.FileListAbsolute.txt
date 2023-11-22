@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\bin\Debug\net6.0\100 Doors problem.exe
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\bin\Debug\net6.0\100 Doors problem.deps.json
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\bin\Debug\net6.0\100 Doors problem.runtimeconfig.json
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\bin\Debug\net6.0\100 Doors problem.dll
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\bin\Debug\net6.0\100 Doors problem.pdb
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.AssemblyInfo.cs
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.dll
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\refint\100 Doors problem.dll
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.pdb
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\100 Doors problem.genruntimeconfig.cache
+H:\Visual Studio 2022\100 Doors problem\100 Doors problem\obj\Debug\net6.0\ref\100 Doors problem.dll
