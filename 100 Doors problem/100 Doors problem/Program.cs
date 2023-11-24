@@ -10,25 +10,15 @@
             Console.WriteLine("Door" + pos + " is closed");
         }
         // Creates array and sets every door to closed.
-        for(int i = 0; i < doors.Length; i++)
+        for(int i = 1; i <= doors.Length; i++)
         {
-            int j = 0;
-            int move = i + 1;
-            while(j < doors.Length)
+            for (int j = i - 1; j < doors.Length; j = j + i)
             {
-                if (doors[i] == true)
-                {
-                    doors[j] = false;
-                }
-                else
-                {
-                    doors[j] = true;
-                }
-                j = j + move;
+                doors[j] = !doors[j];
+                Console.WriteLine(j);
             }
             //Increments through the doors on each pass.
         }
-        //
         // Increments through each pass.
         for(int i = 0; i < doors.Length; i++)
         {
